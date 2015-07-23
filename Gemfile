@@ -33,10 +33,14 @@ gem 'spring',        group: :development
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'puma'
+gem 'jekyll'
+gem 'kramdown'
+gem 'rack-jekyll'
+gem 'rake'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-# Use debugger
+#://mail.google.com/mail/u/0/#inbox Use debugger
 # gem 'debugger', group: [:development, :test]
 

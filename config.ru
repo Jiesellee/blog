@@ -2,3 +2,6 @@
 
 require ::File.expand_path('../config/environment',  __FILE__)
 run Rails.application
+
+require 'rack/jekyll'
+run Rack::Jekyll.new
