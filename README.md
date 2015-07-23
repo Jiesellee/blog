@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ruby-getting-started
 
 A barebones Rails app, which can easily be deployed to Heroku.
@@ -27,9 +28,13 @@ $ heroku run rake db:migrate
 $ heroku open
 ```
 
-## Documentation
+## Documentation please
 
 For more information about using Ruby on Heroku, see these Dev Center articles:
 
 - [Ruby on Heroku](https://devcenter.heroku.com/categories/ruby)
 
+||||||| merged common ancestors
+=======
+#blog 
+>>>>>>> 93ddf748830c3e1583f4cd991e750b6dd51b65a3
