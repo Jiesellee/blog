@@ -1,2 +1,2 @@
-web: jekyll serve -P $PORT" 
-web: bundle exec puma -C config/puma.rb
+web: jekyll serve -P $PORT 
+#web: bundle exec puma -C config/puma.rb
